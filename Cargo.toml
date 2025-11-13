@@ -1,6 +1,6 @@
 [package]
 name = "momento-ddb-interceptor"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["momento"]
 edition = "2024"
 description = "Momento extension for DynamoDB client"
